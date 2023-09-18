@@ -1,5 +1,6 @@
 ﻿#include <iostream>
-
+#include <algorithm>
+#include <math.h>
 int main() {
 	double a, b, c, Answer1, Answer2, D;
 	std::cout << "A:" && std::cin >> a && std::cout << "B:" && std::cin >> b && std::cout << "C:" && std::cin >> c;
